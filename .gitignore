@@ -1,0 +1,7 @@
+HELP.md
+.mvn
+/target
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/build/
+!**/src/test/**/build/
+.idea
